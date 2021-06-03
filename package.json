@@ -1,0 +1,19 @@
+{
+  "name": "json-query-builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./tests/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "node -r esm ./tests/index.js"
+  },
+  "author": "Ilter",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "fs": "^0.0.1-security"
+  }
+}
