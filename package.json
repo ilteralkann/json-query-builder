@@ -13,6 +13,7 @@
   "author": "Ilter",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^4.1.1",
     "esm": "^3.2.25",
     "fs": "^0.0.1-security"
   }
