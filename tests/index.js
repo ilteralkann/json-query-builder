@@ -1,5 +1,7 @@
 const jqb = require('../lib/jqb')
 
+jqb.drop('./test.json')
+
 /*
 jqb.insert('test.json', ({
     "x":"2"
